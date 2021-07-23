@@ -11,3 +11,5 @@ Repositorio taller Github ELSOC 2021
 
 ## Cerrar ejericio 1
 
+* recordar logearse antes de hacer el push
+
