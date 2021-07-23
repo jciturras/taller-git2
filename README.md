@@ -6,3 +6,8 @@ Repositorio taller Github ELSOC 2021
 
 * punto 1
 * punto 2
+* punto 3
+* punto 4
+
+## Cerrar ejericio 1
+
