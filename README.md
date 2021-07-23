@@ -13,3 +13,4 @@ Repositorio taller Github ELSOC 2021
 
 * recordar logearse antes de hacer el push
 
+* vuelve al remoto
